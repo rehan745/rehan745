@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rehan745
-- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Instagram rehan_shaikh_0021
